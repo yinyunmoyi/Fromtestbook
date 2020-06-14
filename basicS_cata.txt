@@ -1,0 +1,116 @@
+Test01  实现选择排序1：普通函数数组实现,从大到小
+
+Test02  有这样一个矩形，要求把该矩形分成均匀的正方形且该正方形的边长最大，
+	 * 输出正方形的边长和需要多少个正方形填满这个矩形
+	 
+Test03  快速排序，从大到小￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥#￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥
+
+Test04  有一个包含任意个正负数的数组，求该数组最大子序列的和
+	 * 最大子序列是指和最大，并非其中不能有负数
+	 
+Test05  二分法查找一个数组元素
+
+Test06  计算两个数的最大公因数，用欧几里得算法
+	 * a、b两数（a>b）取余得c，然后对b和c做同样的操作直至余数为0，此时b即所求
+	 
+Test07  用递归实现计算x的n次幂
+
+Test08  用二分法求一个函数的零点，y=e^x*x-1
+
+Test09  有一个包含任意个正负数的数组，求该数组最大子序列的和和序列的起始终止索引
+	 * 最大子序列是指和最大，并非其中不能有负数￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥
+	 
+Test10  判断一个数是否为素数
+
+Test11   * 用厄尔多塞筛计算小于n的所有素数，
+	 * 每次找出一个最小的素数 并删除集合中它的倍数
+	 * 最后剩下的元素就全是素数
+	 
+Test12  不用递归快速求幂
+
+Test13  用递归求一个数组的主元素
+	 * 所谓主元素就是出现次数超过N/2次的元素，如果没有主元素也请指出￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥
+	 
+Test14  * 实现ArraysList类
+	 * 要实现的方法：
+	 * 空参构造、clear、size、isEmpty、trimToSize
+	 * get、set、ensureCapacity、add
+	 * remove、iterator
+	 
+Test15  * 实现LinkedList类，要实现的类和方法：
+	 * Node、空参构造、clear、size
+	 * isEmpty、add、get、set
+	 * remove
+	 * iterator
+	 
+Test16  * 实现普通二叉查找树BinarySearchTree类
+	 * 要实现的方法和类：
+	 * BinaryNode、makeEmpty、isEmpty
+	 * 空参构造、contains、findMax
+	 * findMin、insert、remove、printTree
+	 
+Test17  * 实现一个AVL树avlSearchTree类 
+		 要实现的方法和类：
+	 *  avlNode、makeEmpty、isEmpty
+	 * 空参构造、contains、findMax、findMin、
+	 * insert、remove、printTree
+	 
+Test18  处理长度相同，仅一个字母不同的相似单词
+	 * 给定一个List里面装着很多单词string
+	 * 要求得到一个Map，这个Map中的键是一个单词
+	 * 值是与该单词仅一个字母之差的单词构成的List
+	 * 如：line和wine、pine
+	 
+Test19  * 实现一个分离链接散列表类SeparateChainingHashTable
+	 * 要实现的方法：空参构造、insert、remove
+	 * contains、makeEmpty、myhash
+	 * 存入其中的类要实现的方法：
+	 * hashCode、equals
+	 
+Test20   * 基于邻接矩阵表示一个图MatrixGraph类
+	 * 要实现的类与方法：
+	 * Vertex、空参构造、addVertex、
+	 * addEdge、displayVertex
+	 * dfs、bfs、degree
+	 
+Test21  * 基于邻接表表示一个图ListGraph类
+	 * 要实现的类与方法：
+	 * Vertex、ListVex、空参构造、addVertex、
+	 * addEdge、displayVertex
+	 * dfs、bfs、degree
+	 
+Test22  * prim方法查找最小生成树（基于邻接矩阵实现的带权的无向图）
+
+Test23   * kruskal算法实现最小生成树（基于边集数组的无向图）
+
+Test24   * 查找最小路径的Dijkstra算法、以及Floyd算法（基于邻接矩阵实现的带权无向图）
+
+Test25   * 实现一个AOV网的拓扑排序（基于邻接表实现的无权有向图）
+
+Test26   * 求关键路径（基于邻接表实现的有向加权图）
+
+Test27  * 二分查找、插值查找
+
+Test28  * 各类排序
+	 * 简单排序、冒泡排序、优化冒泡排序、选择排序
+	 * 插入排序、希尔排序、堆排序、合并排序
+	 * 非递归合并排序、快速排序
+
+Jzoffer01	二维数组的查找
+Jzoffer02	替换空格
+Jzoffer03	从尾到头打印链表
+Jzoffer04	重建二叉树
+Jzoffer05	用两个栈实现队列
+Jzoffer06	旋转数组的最小数字
+Jzoffer07	斐波那契数列
+Jzoffer08	跳台阶
+Jzoffer09	变态跳台阶
+Jzoffer10	矩形覆盖
+Jzoffer11	二进制中一的个数
+Jzoffer12	数值的整数次方
+Jzoffer13	调整数组顺序使奇数在前
+Jzoffer14	链表中倒数第k个结点
+Jzoffer15	反转链表
+Jzoffer16	合并两个排序的链表
+Jzoffer17	树的子结构
+
