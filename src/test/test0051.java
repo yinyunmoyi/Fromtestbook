@@ -79,4 +79,6 @@ class Mountain{
 		this.val = val;
 		this.times = times;
 	}
+
+	//test code
 }
