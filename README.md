@@ -1,5 +1,7 @@
 # Fromtestbook
 
+![QQ图片20220623230134](QQ图片20220623230134.png)
+
 MyBatis 与 Hibernate 的对比：
 
 |   对比指标   |        Hibernate        |                 MyBatis                  |
