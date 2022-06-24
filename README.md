@@ -1,6 +1,6 @@
 # Fromtestbook
 
-![QQ图片20220623230134](QQ图片20220623230134.png)
+![image](https://github.com/shizhuoping/Fromtestbook/blob/master/QQ%E5%9B%BE%E7%89%8720220623230134.png)
 
 MyBatis 与 Hibernate 的对比：
 
